@@ -1,4 +1,4 @@
-## Hi there 👋 :grinning:
+## Hi guys 👋 :grinning:
 <br>
 I'm Ramon Rocha, a front-end programmer, I am currently creating responsive projects with the following technologies:
 <br>
